@@ -7,3 +7,5 @@ https://aloula-redirect.vercel.app/10/playlist.m3u8
 https://aloula-redirect.vercel.app/16/playlist.m3u8
 #EXTINF:-1 tvg-id="KSASports4.sa" group-title="Saudi Sports",KSA Sports 4
 https://edge.taghtia.com/sa/17.m3u8
+#EXTINF:-1 tvg-id="KSASports5.sa" group-title="Saudi Sports",KSAS ports 5
+https://aloula-live-ak.akamaized.net/out/v1/9a419ef0b3ee4e7e8bbf5dfdf34be69e/index.m3u8
