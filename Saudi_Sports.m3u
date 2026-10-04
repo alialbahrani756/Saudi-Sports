@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KSASports1.sa" group-title="Saudi Sports",KSA Sports 1
+https://aloula-redirect.vercel.app/9/playlist.m3u8
+#EXTINF:-1 tvg-id="KSASports2.sa" group-title="Saudi Sports",KSA Sports 2
+https://aloula-redirect.vercel.app/10/playlist.m3u8
+#EXTINF:-1 tvg-id="KSASports3.sa" group-title="Saudi Sports",KSA Sports 3
+https://aloula-redirect.vercel.app/16/playlist.m3u8
+#EXTINF:-1 tvg-id="KSASports4.sa" group-title="Saudi Sports",KSA Sports 4
+https://edge.taghtia.com/sa/17.m3u8
